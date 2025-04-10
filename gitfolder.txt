@@ -1,0 +1,5 @@
+this is for the git to convert any folder to git folder we use git init in the folder then it get coverted to repositry 
+we enter the folder and intialize git in it it get converted to the repositry 
+
+then it cret an own folder in the given folder name ./git that is a hidden folder that can we fetched by ls -a it now has all the data 
+and some files name as hooks and all about that git file we store in it  
