@@ -1,0 +1,6 @@
+git config --global user. name "<your username?"
+g i t config --global user. email "syour email
+
+to setup locally username and email locally 
+
+

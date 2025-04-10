@@ -2,4 +2,19 @@ this is for the git to convert any folder to git folder we use git init in the f
 we enter the folder and intialize git in it it get converted to the repositry 
 
 then it cret an own folder in the given folder name ./git that is a hidden folder that can we fetched by ls -a it now has all the data 
-and some files name as hooks and all about that git file we store in it  
+and some files name as hooks and all about that git file we store in it
+
+
+git has 3 area
+
+Working Directory when i write gitadd chcek git status it show read it means it is in the working directory and not saved in the git 
+
+Staging Area  when write git add "filename" then it has moved to the staging are means git knows about that file and color change to green 
+
+Git Directory    git commit -m "added a file" now file has beeen added to the git  -m is for the message 
+
+all these operation are inside the folder we want to store in the git 
+
+if i delete the file then with help of commnad git restore "f.n" i can get that file back 
+
+  
